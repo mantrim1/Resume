@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 29, 2015, 1:05:36 PM
+    Author     : Mark
+*/
+body{
+    background-color: #edece0;
+}
+.main{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-align: center;
+    text-shadow: .5px .5px;
+    
+    
+}
+.underline{
+    color:#990033;
+    float:right;
+    width:65%;
+    
+}
+.underlineLeft{
+    color:#990033;
+    float:left;
+    width:65%;
+}
+.verticalLineRight{
+    float:left;
+    width: 30%;
+    height:100%;
+}
